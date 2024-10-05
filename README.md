@@ -25,4 +25,4 @@ pip install Flask twilio python-dotenv
 ```
 ## Documentación
 
-Puedes acceder a la documentación completa del proyecto en [Notion]([https://notion.so/tu_enlace_publico](https://www.notion.so/Documentaci-n-chatbot-de-wsp-con-twilio-y-flask-115406dbdf6080bc8509f116f31c0879)).
+Puedes acceder a la documentación completa del proyecto en [Notion]([[https://notion.so/tu_enlace_publico](https://www.notion.so/Documentaci-n-chatbot-de-wsp-con-twilio-y-flask-115406dbdf6080bc8509f116f31c0879)](https://rainbow-soapwort-53b.notion.site/Documentaci-n-chatbot-de-wsp-con-twilio-y-flask-115406dbdf6080bc8509f116f31c0879?pvs=25)).

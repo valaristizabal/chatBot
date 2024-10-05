@@ -21,7 +21,8 @@ Antes de comenzar, asegúrate de tener los siguientes requisitos:
 Instala las dependencias necesarias utilizando `pip`:
 
 ```bash
-pip install Flask twilio python-dotenv
+pip install twilio
+pip install Flask twilio
 ```
 ## Documentación
 
